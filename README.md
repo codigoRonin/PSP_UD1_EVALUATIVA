@@ -33,7 +33,7 @@ Para ello:
 
     Iniciaremos un proceso que inicie el anterior, a través de su propia entrada estándar recoja tantas calificaciones como el usuario desee hasta que el usuario introduzca un "*". Muestra por pantalla el resultado comprobando todas las posibilidades asi como como un caso incorrecto incorrecto (Introduciendo un valor no númerico).
 
-4.	**HACER PING** → Crear un programa (proceso) que a través de los argumentos del método main, reciba una dirección para hacer ping. En caso de no recibir parámetro o que no exista mostrar el mensaje "Se require de una dirección para hacer ping." En caso de que el párametro sea correcto que dicho progtrama invoque alcomando ping con dicha drección y muestre su salida.
+4.	**HACER PING** → Crear un programa (proceso) que a través de los argumentos del método main, reciba una dirección para hacer ping. En caso de no recibir parámetro o que no exista mostrar el mensaje "Se require de una dirección para hacer ping." En caso de que el párametro sea correcto que dicho programa invoque al comando ping con dicha drección y muestre su salida.
 
 Iniciaremos un proceso que inicie el anterior,solicitando al usuario una dirección y un número entero. Debemos iniciar tantos PING como valor tenga el número entero introducido y, en todos ellos, mostrar resultado. En caso de que el usuario no introduzca su nombre o de que el segundo valor no sea un número entero, debemos informar del error a través de la salida de error estándar.
 

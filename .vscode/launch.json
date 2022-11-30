@@ -1,0 +1,87 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Email",
+            "request": "launch",
+            "mainClass": "Email",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mail",
+            "request": "launch",
+            "mainClass": "Mail",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ratings",
+            "request": "launch",
+            "mainClass": "Ratings",
+            "args": "1 2 3 ",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fechas",
+            "request": "launch",
+            "mainClass": "Fechas",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ping",
+            "request": "launch",
+            "mainClass": "Ping",
+            "args": "xxx",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalcularEdad",
+            "request": "launch",
+            "mainClass": "CalcularEdad",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntToRoman",
+            "request": "launch",
+            "mainClass": "IntToRoman",
+            "args": "45",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sumar",
+            "request": "launch",
+            "mainClass": "Sumar",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserFile",
+            "request": "launch",
+            "mainClass": "UserFile",
+            "projectName": "Unidad 1 - Evaluable_b8db6978"
+        }
+    ]
+}
